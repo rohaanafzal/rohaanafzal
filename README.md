@@ -21,5 +21,7 @@ LeaseGuard: an AI leasing assistant for students
 
 Fun Facts
 ✈️ 4 years of aeromodelling: balsa, foam, gas, and electric
+
 🏎️ I like building fast cars
+
 Interests: AI, cybersecurity, aviation, UAS, autonomous systems, robotics, defense tech
