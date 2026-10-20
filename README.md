@@ -20,6 +20,7 @@ LeaseGuard: an AI leasing assistant for students
 🎯 Looking for software engineering, AI engineering, or cybersecurity internships. Let's talk!
 
 Fun Facts
+
 ✈️ 4 years of aeromodelling: balsa, foam, gas, and electric
 
 🏎️ I like building fast cars
